@@ -1,17 +1,3 @@
-# ⛴️ Quest 1 - Mint a Pirate Ship NFT
-
-📘 Write the code to mint yourself an NFT that will represent your pirate ship.
-
-Throughout the bootcamp, we’ll customize this NFT, use it to build other things, and ultimately you’ll battle other NFTs on the high seas.
-
-## Workshop Day 1: Solana Basics
-
-## Quick links to learn more
-
-- https://docs.solana.com/developers
-- Slides from the workshop:
-  https://docs.google.com/presentation/d/1N2-3XMqtoZspSeiPJt3JQChTljCxb-0xJTelP315g1I/edit?usp=sharing
-
 ## Tech stack used
 
 - uses TypeScript and NodeJS
